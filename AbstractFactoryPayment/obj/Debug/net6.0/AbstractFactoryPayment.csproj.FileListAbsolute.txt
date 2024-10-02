@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\bin\Debug\net6.0\AbstractFactoryPayment.exe
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\bin\Debug\net6.0\AbstractFactoryPayment.deps.json
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\bin\Debug\net6.0\AbstractFactoryPayment.runtimeconfig.json
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\bin\Debug\net6.0\AbstractFactoryPayment.dll
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\bin\Debug\net6.0\AbstractFactoryPayment.pdb
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\obj\Debug\net6.0\AbstractFactoryPayment.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\obj\Debug\net6.0\AbstractFactoryPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\obj\Debug\net6.0\AbstractFactoryPayment.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\obj\Debug\net6.0\AbstractFactoryPayment.AssemblyInfo.cs
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\obj\Debug\net6.0\AbstractFactoryPayment.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\obj\Debug\net6.0\AbstractFactoryPayment.dll
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\obj\Debug\net6.0\refint\AbstractFactoryPayment.dll
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\obj\Debug\net6.0\AbstractFactoryPayment.pdb
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\obj\Debug\net6.0\AbstractFactoryPayment.genruntimeconfig.cache
+C:\Users\Guilherme\Downloads\ProjetosPessoais\ApsMap\AbstractFactoryPayment\obj\Debug\net6.0\ref\AbstractFactoryPayment.dll
