@@ -2,7 +2,7 @@
 
 ## Membros da Equipe
 
-- Alison Aquino da Silva - (Inserir matrícula)
+- Alison Aquino da Silva - 1-2024130648
 - Caio Henrique de Souza Lira - 1-2024130717
 - Luiz Guilherme de Sousa Braga - 1-2023125277
 - Sabrine Silva Marques - 1-2024130737
